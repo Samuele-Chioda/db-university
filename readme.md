@@ -20,6 +20,6 @@ Cosa consegnare?
 Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
 
 
-Esercizio 10/07/2024, file: query2.txt. 
+Esercizio 10/07/2024, file: query2.txt: 
 Utilizzando lo stesso database di ieri, eseguite le query in allegato.
 Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
